@@ -17,7 +17,7 @@
 
 - [**HelloVoxel**](https://github.com/Linirby/HelloVoxel) — A custom C++ voxel game engine built entirely on the **SDL3 GPU** API.
 - [**Pawstria**](https://github.com/Linirby/Pawstria) — A 2D code-based game engine written in C++.
-- [**LiliRasterizer**](https://github.com/Linirby/LiliRasterizer) — A software rasterizer built from scratch in C.
+- [**LiliRasterizer**](https://github.com/Linirby/LiliRasterizer) — A 2D software rasterizer built from scratch in C (focusing on manual framebuffer manipulation, primitive drawing, and gradients).
 
 <h3 align="left">Used to work with</h3>
 
