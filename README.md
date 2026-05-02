@@ -1,7 +1,4 @@
 <h1 align="center">Lili (@Linirby)</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF55BB&center=true&vCenter=true&width=600&lines=Building+custom+game+engines...;Compiling+Vulkan+shaders...;Vibing+on+videogames...;Bringing+code+to+life." alt="Typing SVG" />
-</p>
 
 <p align="center">
   <b><i>Graphics Engineering | Engine Development | 42 Student</i></b>
