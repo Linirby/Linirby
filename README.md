@@ -29,9 +29,16 @@
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Nvim" />
 </p>
 
+<h3 align="left">Support</h3>
+
+> **Kofi:** https://ko-fi.com/liliowo
+
 <h3 align="left">Contact</h3>
 
-- **Email:** [linirby.contact@gmail.com](mailto:linirby.contact@gmail.com)
-- **X (Twitter):** [@Linirby](https://x.com/Linirby)
-- **Bluesky:** [@linirby.bsky.social](https://bsky.app/profile/linirby.bsky.social)
-- **Discord:** `@linirby`
+> **Email:** [linirby.contact@gmail.com](mailto:linirby.contact@gmail.com)
+> 
+> **X (Twitter):** [@Linirby](https://x.com/Linirby)
+> 
+> **Bluesky:** [@linirby.bsky.social](https://bsky.app/profile/linirby.bsky.social)
+> 
+> **Discord:** `@linirby`
