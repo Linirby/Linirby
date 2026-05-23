@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Nvim" />
 </p>
 
-<h3 align="left">Support</h3>
+<h3 align="left">Support ❤️</h3>
 
 > **Kofi:** https://ko-fi.com/liliowo
 
