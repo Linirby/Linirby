@@ -6,14 +6,10 @@
 
 ---
 
-<p align="left">
-  I build custom game engines and rendering systems from the ground up to turn low-level code into interactive, living worlds.
-</p>
-
 <h3 align="left">Some Projects</h3>
 
-- [**HelloVoxel**](https://github.com/Linirby/HelloVoxel) — A custom C++ voxel game engine built entirely on the **SDL3 GPU** API.
-- [**Pawstria**](https://github.com/Linirby/Pawstria) — A 2D code-based game engine written in C++.
+- [**Lili2D**](https://github.com/Linirby/Lili2D) — A lightweight, easy-to-use C++ library designed to help you create 2D games with a cool, intuitive API! :3
+- [**HelloVoxel**](https://github.com/Linirby/HelloVoxel) — A custom C++ voxel engine built entirely on the SDL3 GPU API.
 - [**LiliRasterizer**](https://github.com/Linirby/LiliRasterizer) — A 2D software rasterizer built from scratch in C (focusing on manual framebuffer manipulation, primitive drawing, and gradients).
 
 <h3 align="left">Used to work with</h3>
