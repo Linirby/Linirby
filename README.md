@@ -29,10 +29,10 @@
 
 > **Email:** [linirby.contact@gmail.com](mailto:linirby.contact@gmail.com)
 > 
-> **X (Twitter):** [@Linirby](https://x.com/Linirby)
-> 
 > **Bluesky:** [@linirby.bsky.social](https://bsky.app/profile/linirby.bsky.social)
 > 
+> **LinkedIn** [Lili Brement](https://www.linkedin.com/in/lili-brement-45a354397/)
+>
 > **Discord:** `@linirby`
 
 <h3 align="left">Join the Community</h3>
