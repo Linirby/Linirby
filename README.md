@@ -8,7 +8,7 @@
 
 <h3 align="left">Some Projects</h3>
 
-- [**Lili2D**](https://github.com/Linirby/Lili2D) — A lightweight, easy-to-use C++ library designed to help you create 2D games with a cool, intuitive API! :3
+- [**Lili2D**](https://github.com/Linirby/Lili2D) — A lightweight, easy-to-use C++ library designed to help you create 2D games :3
 - [**HelloVoxel**](https://github.com/Linirby/HelloVoxel) — A custom C++ voxel engine built entirely on the SDL3 GPU API.
 
 <h3 align="left">Used to work with</h3>
