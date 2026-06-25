@@ -1,7 +1,7 @@
 <h1 align="center">Lili (@Linirby)</h1>
 
 <p align="center">
-  <b><i>Aspiring Game & Engine Development | 42 Student</i></b>
+  <b><i>Aspiring Game & Engine Dev | 42 Student</i></b>
 </p>
 
 ---
