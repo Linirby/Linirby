@@ -26,21 +26,7 @@
 <h3 align="left">Contact</h3>
 
 > **Email:** [linirby.contact@gmail.com](mailto:linirby.contact@gmail.com)
-> 
-> **Bluesky:** [@linirby.bsky.social](https://bsky.app/profile/linirby.bsky.social)
-> 
-> **LinkedIn** [Lili Brement](https://www.linkedin.com/in/lili-brement-45a354397/)
 >
 > **Discord:** `@linirby`
 
-<h3 align="left">Join the Community</h3>
-
-> Join a cozy space for developers, creators, and gamers alike! Whether you want to follow the daily development of my projects, ask for help integrating my libraries, or just share your own creations and hang out, we'd love to have you.
->
-> Discord: **https://discord.gg/6S6HyKWgK3**
-
-<h3 align="left">Support</h3>
-
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/liliowo)
-> 
-> **Kofi:** https://ko-fi.com/liliowo
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/liliowo)
