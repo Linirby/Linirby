@@ -6,7 +6,7 @@
 
 [**Lili2D**](https://github.com/Linirby/Lili2D) a C++ game engine designed to help 2D games creation and prototyping.
 
-### Used to work with:
+### Work a lot with:
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
