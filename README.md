@@ -4,7 +4,7 @@
 
 ### Current Project:
 
-[**Lili2D**](https://github.com/Linirby/Lili2D) a C++ game engine designed to help 2D games creation and prototyping.
+[**VertX**](https://github.com/Linirby/VertX) a C++ game engine designed to help 2D games creation and prototyping.
 
 ### Work a lot with:
 
