@@ -19,7 +19,7 @@ I like to discover some other tools/languages for fun, like (Rust, Godot, Blende
 
 ### Contact
 
-> **Email:** [linirby.contact@gmail.com](mailto:linirby.contact@gmail.com)
+> **Email:** [dev.brementlili@gmail.com](mailto:dev.brementlili@gmail.com)
 >
 > **Discord:** linirby
 
