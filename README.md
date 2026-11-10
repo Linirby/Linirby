@@ -1,6 +1,6 @@
 # Lili :3
 
-*Engine & Game Dev, 42 Student*
+*Engine / System Dev, 42 Student*
 
 ### Current Project:
 
